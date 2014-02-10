@@ -1,6 +1,8 @@
 SQLQueryGenerator
 =================
 
+Files will be uploaded soon. !important
+
 Microsoft SQL Server Query Generator
 
 It's for those who can't seems to Generate Script using SQL Server Management Studio.
