@@ -17,9 +17,12 @@ with the information in my database.
 HOW TO USE:
 
 1) Modify the connString.txt to your database source.
+
 2) Input the column name that you intend to take the source from. (Exclude IDENTITY column)
+
 3) Input the table name that the column belong to.
-4) Input the filename which the program will save it as. 
-(IGNORE the filetype; Example: SQLScriptPopulate - YOU DO NOT NEED THE FILE TYPE)
+
+4) Input the filename which the program will save it as. (IGNORE the filetype; Example: SQLScriptPopulate - YOU DO NOT NEED THE FILE TYPE)
+
 5) TYPE START TO BEGIN THE PROCESS OF GENERATING THE QUERY.
 
